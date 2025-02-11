@@ -1,8 +1,5 @@
 # **Veterinary Management System**
 
-**Team 10**
-
-Members: Harshika, Rithvika, Vaishnavi, Vishakha
 
 ## **Overview**
 
